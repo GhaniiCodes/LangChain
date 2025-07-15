@@ -8,3 +8,4 @@ arxiv
 pymupdf
 wikipedia
 certifi
+langchain_text_splitters
